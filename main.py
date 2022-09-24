@@ -3,7 +3,7 @@ import pandas as pd
 import fasttext
 
 
-ft = fasttext.load_model('drive/MyDrive/NNQ/cc.id.300.bin')
+ft = fasttext.load_model('cc.id.300.bin')
 str1=input()
 myvec=ft.get_sentence_vector(str1)
 
