@@ -10,3 +10,10 @@ This code is using Python 3.7
 
 4. run main.py ```python3 main.py```
 5. put the radiologist report text in the input box, then press enter
+
+
+## Example:
+
+input text= ```YTH : Ts dr. Thorax AP : Perbandingan :24-03-2020 Cor tidak membesar.   Sinuses tajam dan diafragma normal Pulmo: Hili normal Corakan bronkovaskuler normal Tampak konsolidasi homogen dengan air bronchogram (+) di lapang tengah sampai bawah bilateral, berkurang. KESAN :   Pneumonia, dibandingkan foto sebelumnya konsolidasi tampak berkurang. Tidak tampak kardiomegali```
+
+output of the program= ```PREDICTED AGE=  46.970093 years old```
